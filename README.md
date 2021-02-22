@@ -59,5 +59,5 @@ Weight percentage in the corresponding oxide for the following elements:
 
 ## Result and code
 
-Please see code [here](https://github.com/ct627/Kaggle_BikeShare/blob/master/bikeshare.ipynb) for details.
+Please see code [here](https://github.com/mingge612/KNN/blob/main/KNN.ipynb) for details.
 
